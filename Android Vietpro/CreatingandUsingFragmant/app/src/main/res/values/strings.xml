@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CreatingandUsingFragmant</string>
+    <string name="hello">Hello Android</string>
+    <string name="button">Click me</string>
+</resources>

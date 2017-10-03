@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppReadingBook</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="namebook">Name book</string>
+    <string name="nameauthor">Name Author</string>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CommunicationFragments</string>
+    <string name="name">wolverine</string>
+    <string name="button">Click Me</string>
+</resources>

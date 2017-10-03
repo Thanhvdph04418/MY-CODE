@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Quản lý sinh viên</string>
+    <string name="btn_them">Thêm Lớp</string>
+    <string name="btn_xem">Xem danh sách Lớp</string>
+    <string name="btn_quanly">Quản lý Sinh viên</string>
+    <string name="txt_tieude">Quản Lý Sinh Viên</string>
+    <string name="txt_them_moi_lop">Thêm mới lớp</string>
+    <string name="txt_ma_lop">Mã lớp: </string>
+    <string name="txt_ma_lop_1">Mã lớp</string>
+    <string name="txt_ten_lop">Tên lớp: </string>
+    <string name="txt_ten_lop_1">Tên lớp</string>
+    <string name="btn_xoa_trang">Xóa trắng</string>
+    <string name="btn_luu_lop">Lưu lớp</string>
+    <string name="txt_stt">STT</string>
+</resources>

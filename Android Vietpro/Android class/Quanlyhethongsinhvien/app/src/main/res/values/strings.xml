@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Quanlyhethongsinhvien</string>
+    <string name="qlsv">Quản Lý Sinh Viên</string>
+    <string name="xdsl">Xem danh sách Lớp</string>
+    <string name="tl">Thêm Lớp</string>
+    <string name="ml">Mã lớp</string>
+    <string name="nl">Tên lớp</string>
+    <string name="stt">STT</string>
+    <string name="tsv">Thêm Sinh Viên</string>
+    <string name="birthday">Ngày Sinh</string>
+    <string name="txtname">Tên sinh viên</string>
+    <string name="ten_lop">PT12352</string>
+    <string name="lop">Lớp</string>
+</resources>

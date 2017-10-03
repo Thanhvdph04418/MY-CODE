@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ButtonKnife</string>
+    <string name="greeting">Hello Java</string>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SQLite</string>
+    <string name="btn_show">Show</string>
+    <string name="hint_age">Nhập tuổi</string>
+    <string name="hint_name">Nhập tên</string>
+    <string name="btn_add">Add</string>
+    <string name="txt_name">Tên</string>
+    <string name="txt_age">Tuổi</string>
+</resources>

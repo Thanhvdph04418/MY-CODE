@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="linearlayoutandroid.fpt.canhhh.alertdialog.MainActivity">
+
+   <Button
+       android:layout_width="wrap_content"
+       android:text="Show Normal Alert"
+       android:layout_centerInParent="true"
+       android:background="#000"
+       android:textColor="#ff9600"
+       android:layout_height="wrap_content"
+       android:id="@+id/show_normal_alert_dialog" />
+
+    <Button
+        android:id="@+id/show_normal_alert_list"
+        android:layout_width="wrap_content"
+        android:text="Show Alert List"
+        android:background="#000"
+        android:textColor="#ff9600"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:layout_above="@+id/show_normal_alert_dialog"
+        android:layout_alignLeft="@+id/show_normal_alert_dialog"
+        android:layout_alignStart="@+id/show_normal_alert_dialog" />
+
+</RelativeLayout>

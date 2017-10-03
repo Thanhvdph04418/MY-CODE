@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">EcommerceApp</string>
+    <string name="btn_add_to_cart">Add To Cart</string>
+</resources>

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "52553547572",
+    "firebase_url": "https://demoquanlysinhvien-20728.firebaseio.com",
+    "project_id": "demoquanlysinhvien-20728",
+    "storage_bucket": "demoquanlysinhvien-20728.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52553547572:android:6f4a78af3fc05c87",
+        "android_client_info": {
+          "package_name": "tenproject.tencongty.tenminh.demoquanlysinhvien"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "52553547572-elmec70p0dull0uqvkl7093eaq8jsl85.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeV67WdsuIfxLcMiGGIEvDTYElKYb-3c0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
